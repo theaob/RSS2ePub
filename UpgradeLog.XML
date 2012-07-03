@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RSS2ePub">
+</Property><Property Name="Solution File" Value="C:\Users\Test Pc1\Documents\Visual Studio 2010\Projects\RSS2ePub\RSS2ePub.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Test Pc1\Documents\Visual Studio 2010\Projects\RSS2ePub\RSS2ePub.suo">
+</Property><Property Name="Date" Value="03 Temmuz 2012 Salı">
+</Property><Property Name="Time" Value="17:37">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="RSS2ePub.sln" Description="File successfully backed up as C:\Users\Test Pc1\Documents\Visual Studio 2010\Projects\RSS2ePub\Backup\RSS2ePub.sln">
+</Event><Event ErrorLevel="0" Project="" Source="RSS2ePub.suo" Description="File successfully backed up as C:\Users\Test Pc1\Documents\Visual Studio 2010\Projects\RSS2ePub\Backup\RSS2ePub.suo">
+</Event><Event ErrorLevel="0" Project="RSS2ePub" Source="RSS2ePub\RSS2ePub.csproj" Description="Project file successfully backed up as C:\Users\Test Pc1\Documents\Visual Studio 2010\Projects\RSS2ePub\Backup\RSS2ePub\RSS2ePub.csproj">
+</Event><Event ErrorLevel="0" Project="RSS2ePub" Source="RSS2ePub\Form1.cs" Description="File successfully backed up as C:\Users\Test Pc1\Documents\Visual Studio 2010\Projects\RSS2ePub\Backup\RSS2ePub\Form1.cs">
+</Event><Event ErrorLevel="0" Project="RSS2ePub" Source="RSS2ePub\Form1.Designer.cs" Description="File successfully backed up as C:\Users\Test Pc1\Documents\Visual Studio 2010\Projects\RSS2ePub\Backup\RSS2ePub\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RSS2ePub" Source="RSS2ePub\Program.cs" Description="File successfully backed up as C:\Users\Test Pc1\Documents\Visual Studio 2010\Projects\RSS2ePub\Backup\RSS2ePub\Program.cs">
+</Event><Event ErrorLevel="0" Project="RSS2ePub" Source="RSS2ePub\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Test Pc1\Documents\Visual Studio 2010\Projects\RSS2ePub\Backup\RSS2ePub\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RSS2ePub" Source="RSS2ePub\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Test Pc1\Documents\Visual Studio 2010\Projects\RSS2ePub\Backup\RSS2ePub\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RSS2ePub" Source="RSS2ePub\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Test Pc1\Documents\Visual Studio 2010\Projects\RSS2ePub\Backup\RSS2ePub\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RSS2ePub" Source="RSS2ePub\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Test Pc1\Documents\Visual Studio 2010\Projects\RSS2ePub\Backup\RSS2ePub\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="RSS2ePub" Source="RSS2ePub\Form1.resx" Description="File successfully backed up as C:\Users\Test Pc1\Documents\Visual Studio 2010\Projects\RSS2ePub\Backup\RSS2ePub\Form1.resx">
+</Event><Event ErrorLevel="0" Project="RSS2ePub" Source="RSS2ePub\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Test Pc1\Documents\Visual Studio 2010\Projects\RSS2ePub\Backup\RSS2ePub\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="RSS2ePub" Source="RSS2ePub\RSS2ePub.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RSS2ePub" Source="RSS2ePub\RSS2ePub.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RSS2ePub.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="RSS2ePub.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RSS2ePub" Source="RSS2ePub\RSS2ePub.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
